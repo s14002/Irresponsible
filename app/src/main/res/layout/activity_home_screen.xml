@@ -22,7 +22,7 @@
             android:layout_weight="1"
             android:background="@drawable/button_customize"
             android:text="@string/dungeon_button"
-            android:textSize="22dp" />
+            android:textSize="22sp" />
 
         <Button
             android:layout_width="wrap_content"
@@ -31,7 +31,7 @@
             android:layout_weight="1"
             android:background="@drawable/blue_button_customize"
             android:text="@string/collection_button"
-            android:textSize="22dp" />
+            android:textSize="22sp" />
 
         <Button
 
@@ -41,7 +41,7 @@
             android:layout_weight="1"
             android:background="@drawable/blue_button_customize"
             android:text="@string/menu_button"
-            android:textSize="22dp" />
+            android:textSize="22sp" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -49,7 +49,7 @@
             android:layout_weight="1"
             android:text="@string/level_view"
             android:textColor="#fff"
-            android:textSize="22dp"
+            android:textSize="22sp"
             />
 
         <TextView
@@ -71,7 +71,7 @@
         android:gravity="center"
         android:text="@string/senior_button"
         android:textColor="#fff"
-        android:textSize="40dp" />
+        android:textSize="40sp" />
 
     <Button
         android:layout_width="match_parent"
@@ -84,7 +84,7 @@
         android:gravity="center"
         android:text="@string/intermediate_button"
         android:textColor="#fff"
-        android:textSize="40dp" />
+        android:textSize="40sp" />
 
     <Button
         android:layout_width="match_parent"
@@ -98,7 +98,7 @@
         android:gravity="center"
         android:text="@string/beginner_button"
         android:textColor="#fff"
-        android:textSize="40dp" />
+        android:textSize="40sp" />
 
 
 </LinearLayout>
