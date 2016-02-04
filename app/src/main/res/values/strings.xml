@@ -8,4 +8,8 @@
     <string name="intermediate_button">中級</string>
     <string name="beginner_button">初級</string>
     <string name="level_view">Lv.</string>
+    <string name="score">Score</string>
+    <string name="experiece_point">Experiece Point</string>
+    <string name="result">Congratulations!</string>
+    <string name="clear_time">Clear Time</string>
 </resources>
